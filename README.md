@@ -1,0 +1,1 @@
+This is an Angular2 test project using .NET Core
